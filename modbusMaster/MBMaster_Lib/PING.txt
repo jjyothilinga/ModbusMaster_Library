@@ -1,0 +1,119 @@
+wait 2 sec
+01 01 01 01 90 48
+
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
+//wait 1 sec
+//aa FA 01 80 7B bb
+
